@@ -1,3 +1,3 @@
  👋 Hi, I’m @landicami, searching for knowledge...
- 🌱 I’m currently learning front end developing with an unexhausted interest in web-accessability 
+ 🌱 I’m currently learning front end developing with an unexhausted interest in web-accessibility 
  📫 Send me an email on landin.camilla8@gmail.com
