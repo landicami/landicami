@@ -2,6 +2,8 @@
  🌱 I’m currently learning front end developing with an unexhausted interest in web-accessibility 
  📫 Send me an email on landin.camilla8@gmail.com
 
+ 9/9-24 Just started my internship at MTM Malmö!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landicami&show_icons=true&theme=dark)
 
 
