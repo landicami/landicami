@@ -1,6 +1,10 @@
  👋 Hi, I’m @landicami, searching for knowledge...
- 🌱 I’m currently learning front end developing with an unexhausted interest in web-accessibility 
+ 🌱 I’m a developer and webspecialist currently working in Malmö university.
  📫 Send me an email on landin.camilla8@gmail.com
+
+ 1/9-current Course in C#
+
+ 1/5-current webspecialist at MAU
  
  3/1-18/4 2025 second period of internship at MTM :)
 
