@@ -1,6 +1,9 @@
  👋 Hi, I’m @landicami, searching for knowledge...
+ 
  🌱 I’m a developer and webspecialist currently working as a System Developer at Myndigheten för tillgängliga medier/Swedish Agency for Accessible Media
+ 
  📫 Send me an email on landin.camilla8@gmail.com
+ 
  💼 Proffessional account here: https://github.com/CamillaLandin 
 
  1/1 2026- now at Myndigheten för tillgängliga medier/Swedish Agency for Accessible Media
@@ -15,7 +18,3 @@
 
  2024 aug-2025 april studying Front end developer at Medieinstitutet Malmoe
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landicami&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landicami&layout=compact&theme=dark)
